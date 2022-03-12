@@ -9,4 +9,6 @@ The information is then run through a subtly trained model that finds patterns a
 
 '''
 
+Note: CSV file for model training is in zip(>100 mb)
+
 Made by: Kumar Vishwajeet Singh
